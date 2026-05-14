@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Riya Goyal</h1>
-- 🌱 I’m currently learning **DSA and WebDevelopment**
-
-- 💬 Ask me about **C, C++, Java**
 
 - 📫 How to reach me **riya03318@gmail.com**
 
